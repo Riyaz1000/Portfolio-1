@@ -1,0 +1,184 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.hero {
+    width: 100%;
+    min-height: 100vh;
+    /*background-color: #F3FDE8; /*venum ah bg image add panikalam */
+   /* background-image: url(savage.png); */
+   background-color: #F8E8EE;
+    background-position: center;
+    background-size: cover;
+    padding: 10px 12%;
+    overflow: hidden;
+    position: relative;
+
+}
+nav {
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.logo {
+    width: 180px;
+    height: 150px;
+    
+
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px 15px;
+}
+ 
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 400;
+
+nav ul li a:hover {
+    color: aqua;
+
+}
+
+
+
+}
+.login-btn {
+    text-decoration: none;
+    color: #333;
+    margin-right: 15px;
+    font-weight: 400;
+
+}
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    padding: 14px 40px;
+    color: #fff;
+    background-image: linear-gradient(45deg, #df4881, #c430d7);
+    font-size: 14px;
+    border-radius: 30px;
+    border-top-right-radius: 0;
+    transition: 0.5s;
+
+
+}
+
+
+.content {
+    margin-top: 20px;
+    max-width: 600px;
+}
+.content {
+    font-size: 20px;
+    color: #222;
+    margin-top: 20px;
+    
+
+}
+
+.content p {
+    margin: 10px 0 30px;
+    color: #333;
+
+}
+.content .btn{
+    padding: 15px 80px;
+    font-size: 16px;
+}
+.btn:hover{
+    border-top-right-radius: 30px;
+}
+.image-1 {
+    width: 380px;
+    position: absolute;
+    bottom: 280px;
+    right: 12%;
+    top: 180px;
+
+
+
+}
+.point-1 {
+
+    text-align: center;
+    margin-top: 70px;
+}
+.compaines {
+    text-align: center;
+    
+}
+.next {
+    font-weight: 700;
+}
+.review {
+    color: green;
+    margin-left: 80px;
+    width: 100%;    
+}
+.review h1 {
+    font-weight: 600;
+    font-size: 48px;
+    color: #222;
+    font-style: bold;
+}
+.footer-1 {
+    background-color:#A8DF8E ;
+    height: 700px;
+    padding: 20px 80px;
+     
+}
+.footer-1 h4 {
+    margin-top:10x;
+    
+}   
+
+/*.riyaz-1 {
+    
+
+   /* text-align: right; */  
+
+.icons {
+    /*text-align: right; */
+    color: #fff;
+    
+}
+.footer-3 {
+    background-color:#435334 ;
+    height: 80px;
+    
+}
+.footer-3 .copy{
+    
+    margin-left: 60px;
+    padding-top: 20px;
+    color: #fff;
+      
+}
+.courses-1 img {
+    margin-top: 15px;
+    
+}
+.courses-10 {
+    text-align:right
+}
+    
+
+
+
+
+
+
+
+
+
+
+
